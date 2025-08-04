@@ -1,0 +1,6 @@
+.p-panel-header {
+  background-color: #e03333;
+}
+p-panel {
+  --p-panel-header-background: #ffebcd;
+}
