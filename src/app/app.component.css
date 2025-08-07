@@ -1,6 +1,4 @@
-.p-panel-header {
-  background-color: #e03333;
-}
 p-panel {
-  --p-panel-header-background: #ffebcd;
+  --p-panel-header-background: Gainsboro;
+  --p-panel-header-color: Black;
 }
